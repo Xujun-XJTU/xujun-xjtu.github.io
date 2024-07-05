@@ -5,7 +5,6 @@ permalink: /publication/2024-04-09-paper-title-number-1
 excerpt: ''
 date: 2024-04-09
 venue: 'Journal of Environmental Management'
-slidesurl: 'http://doi.org/10.1016/j.jenvman.2024.120836'
 paperurl: 'http://doi.org/10.1016/j.jenvman.2024.120836'
 citation: 'X. Qi, J. Zhang, X. Li, J. Cui, Y. Chen, H. Jin, L. Guo, Mechanistic insights and catalytic enhancement of phenolic wastewater supercritical water gasification: A combined experiment and density functional theory study, J. Environ. Manage., 358 (2024) 120836.'
 ---
