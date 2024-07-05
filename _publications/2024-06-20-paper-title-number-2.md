@@ -2,7 +2,7 @@
 title: "Combining experiment and theory to study the mechanism of lignin supercritical water gasification"
 collection: publications
 permalink: /publication/2024-06-20-paper-title-number-1
-excerpt: ' In this work, syringol was selected as a lignin model compound to study the SCWG mechanism of lignin through a combination of molecular simulation and experiments.'
+excerpt: ''
 date: 2024-06-20
 venue: 'Renewable Energy'
 slidesurl: 'http://doi.org/10.1016/j.renene.2024.120786'
