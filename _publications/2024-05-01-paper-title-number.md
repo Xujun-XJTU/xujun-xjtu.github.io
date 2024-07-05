@@ -9,5 +9,3 @@ slidesurl: 'http://doi.org/10.1016/j.supflu.2023.106150'
 paperurl: 'http://doi.org/10.1016/j.supflu.2023.106150'
 citation: 'X. Li, X. Meng, Z. Zhuang, G. He, L. Li, H. Jin, L. Guo, In situ visualization of salt crystallization in sub-/supercritical water environments, Desalination, 583 (2024) 117700. http://doi.org/10.1016/j.desal.2024.117700.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
