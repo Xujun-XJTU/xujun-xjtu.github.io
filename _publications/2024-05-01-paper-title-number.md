@@ -2,7 +2,7 @@
 title: "In situ visualization of salt crystallization in sub-/supercritical water environments"
 collection: publications
 permalink: /publication/2024-05-01-paper-title-number
-excerpt: ' In this study, an innovative experimental apparatus has been developed to conduct in situ investigations into the crystal morphology of various types of inorganic salts.'
+excerpt: ''
 date: 2024-05-01
 venue: 'Desalination'
 slidesurl: 'http://doi.org/10.1016/j.supflu.2023.106150'
