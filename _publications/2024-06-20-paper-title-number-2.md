@@ -5,7 +5,6 @@ permalink: /publication/2024-06-20-paper-title-number-1
 excerpt: ''
 date: 2024-06-20
 venue: 'Renewable Energy'
-slidesurl: 'http://doi.org/10.1016/j.renene.2024.120786'
 paperurl: 'http://doi.org/10.1016/j.renene.2024.120786'
 citation: 'X. Qi, X. Li, Y. Huang, S. Guo, Y. Chen, H. Jin, L. Guo, Combining experiment and theory to study the mechanism of lignin supercritical water gasification, Renewable Energy, (2024) 120786.'
 ---
