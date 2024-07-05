@@ -16,5 +16,5 @@ You can find my CV here: [Xujun's Curriculum Vitae](../assets/Curriculum_Vitae.p
 
 Feel free to contact me via WeChat: [WeChat](../assets/WeChat.pdf). 
 
- [Email](mailto:xujun_li@163.com) / [GitHub](https://github.com/Xujun-XJTU) /  [Google Scholar](https://scholar.google.com/citations?user=4RlP_ugAAAAJ&hl=en) / [ResearchGate](https://www.researchgate.net/profile/Xujun_Li2)
+ [Email](mailto:xujun_li@163.com) / [GitHub](https://github.com/Xujun-XJTU) /  [Google Scholar](https://scholar.google.com/citations?user=4RlP_ugAAAAJ&hl=en) / [ResearchGate (Login required)](https://www.researchgate.net/profile/Xujun_Li2)
                     
