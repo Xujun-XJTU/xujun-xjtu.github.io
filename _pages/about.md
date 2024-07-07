@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-<br/><img src='/images/Love XJTU.png'>
+<br/><img src='/images/Winter XJTU.png'>
 
-Welcome to my homepage!
+Hi, I’m Xujun.
 
-Hi, I’m Xujun. Originally from a small but beautiful village in Anhui province, eastern China, I embarked on an academic journey that led me to earn a bachelor's degree from [Shandong University](https://www.en.sdu.edu.cn/) and a doctoral degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn). 
+Originally from a small but beautiful village in Anhui province, eastern China, I embarked on an academic journey that led me to earn a bachelor's degree from [Shandong University](https://www.en.sdu.edu.cn/) and a doctoral degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn). 
 My research focuses on hydrogen production, heat and mass transfer in multiphase flow and waste treatment. Feel free to reach out to discuss these topics further.
 
 You can find my CV here: [Xujun's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). 
