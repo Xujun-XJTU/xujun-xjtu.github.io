@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<br/><img src='/images/Chinese parasol tree.png'>
+<br/><img src='/images/Love XJTU.png'>
 
 Welcome to my homepage!
 
