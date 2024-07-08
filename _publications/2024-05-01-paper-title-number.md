@@ -5,7 +5,7 @@ permalink: /publication/2024-05-01-paper-title-number
 excerpt: ''
 date: 2024-05-01
 venue: 'Desalination'
-paperurl: 'http://doi.org/10.1016/j.supflu.2023.106150'
+paperurl: 'http://doi.org/10.1016/j.desal.2024.117700'
 citation: 'X. Li, X. Meng, Z. Zhuang, G. He, L. Li, H. Jin, L. Guo, In situ visualization of salt crystallization in sub-/supercritical water environments, Desalination, 583 (2024) 117700. http://doi.org/10.1016/j.desal.2024.117700.'
 ---
 
