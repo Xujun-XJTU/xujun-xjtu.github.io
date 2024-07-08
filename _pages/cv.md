@@ -36,7 +36,7 @@ Software Skills
 
 Experimental Skills
 ======
-* TG/DSC-IR; ICP-MS; Ion chromatograph (IC); X-ray photoelectron spectroscopy (XPS); Scanning electron microscope (SEM);
+* Synchronous thermal analysis infrared spectroscopy analyzer (TG/DSC-IR); Inductively coupled plasma mass spectrometer (ICP-MS); Ion chromatograph (IC); X-ray photoelectron spectroscopy (XPS); Scanning electron microscope (SEM);
 
 * Elemental analyzer (EA); High Performance Liquid Chromatography (HPLC); Total organic carbon/Total nitrogen analyzer (TOC/TN);
 
