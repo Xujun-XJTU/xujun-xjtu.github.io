@@ -9,7 +9,8 @@ redirect_from:
 
 <br/><img src='/images/Winter XJTU.png'>
 
-"We must always change, renew, rejuvenate ourselves; otherwise, we harden." —— Johann Wolfgang von Goethe
+"We must always change, renew, rejuvenate ourselves; otherwise, we harden." 
+—— Johann Wolfgang von Goethe
 
 Hi, my friend, welcome to my site!
 
