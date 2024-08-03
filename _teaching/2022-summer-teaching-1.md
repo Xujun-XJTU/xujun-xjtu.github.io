@@ -8,7 +8,7 @@ date: 2022-09-01
 location: "City, Country"
 ---
 
-Information is pending updates.
+This information is pending updates.
 
 Heading 1
 ======
