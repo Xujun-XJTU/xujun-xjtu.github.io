@@ -9,5 +9,5 @@ Throughout the episodes, audiences are introduced to local markets, street food 
 
 The series not only emphasizes the delicious aspects of Chinese cuisine but also delves into themes of heritage, community, and the stories of the people who create these remarkable ."
 
-Link: "You can watch Amazing China on YouTube: [Eat China](https://www.youtube.com/watch?v=oHCBgAcfVKE&list=PL92YWp8gq03EEMA-3qAvL2MiOyK1SmRDx)"
+Link: "You can watch Eat China on YouTube: [Eat China](https://www.youtube.com/watch?v=oHCBgAcfVKE&list=PL92YWp8gq03EEMA-3qAvL2MiOyK1SmRDx)"
 
