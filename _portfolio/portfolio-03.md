@@ -9,5 +9,5 @@ From the first 100 days of newborn cubs, as showcased in the heartwarming video 
 
 Those documentaries not only showcase the adorable nature of pandas but also emphasize the importance of conservation efforts, scientific research, and the commitment of those working to protect these gentle giants.
 
-Link: "You can see them on YouTube: [Raising Cute Pandas: It's Complicated | National Geographic](https://www.youtube.com/watch?v=v_cpPMjE0vU) and [The First 100 Days of Mei Lun and Mei Huan](https://www.youtube.com/watch?v=c30i79-FA3M)."
+Link: "You can watch them on YouTube: [Raising Cute Pandas: It's Complicated | National Geographic](https://www.youtube.com/watch?v=oHCBgAcfVKE&list=PL92YWp8gq03EEMA-3qAvL2MiOyK1SmRDx), and [The First 100 Days of Mei Lun and Mei Huan](https://www.youtube.com/watch?v=c30i79-FA3M)"
 
