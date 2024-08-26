@@ -7,4 +7,4 @@ venue: "Paul Scherrer Institute (PSI), Laboratory for Sustainable Energy Carrier
 date: 2024-10-01
 location: "Villigen 5232, Switzerland"
 ---
-More detailed information is pending updating.
+More detailed information is pending an update.
