@@ -1,6 +1,6 @@
 ---
 title: "Cute Pandas (Click the Link)"
-excerpt: "<br/><img src='/images/Eat China.png'>"
+excerpt: "<br/><img src='/images/cute pandas.png'>"
 collection: portfolio
 ---
 Description: "Raising Cute Pandas" is an engaging documentary series that delves into the intricate and delicate process of panda conservation and breeding. Set against the backdrop of the lush Sichuan province in Chengdu, where the primary panda breeding base is located, and the rugged wilderness of Foping in Shaanxi, home to wild pandas, the series provides an in-depth look at the challenges and triumphs of raising these beloved animals. Through the episodes, viewers are given an exclusive glimpse into the lives of the dedicated caretakers and researchers who work tirelessly to ensure the survival of this endangered species. 
