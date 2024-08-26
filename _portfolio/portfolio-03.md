@@ -1,5 +1,5 @@
 ---
-title: "Cute Pandas (Click the Link)"
+title: "Raising Cute Pandas (Click the Link)"
 excerpt: "<br/><img src='/images/cute pandas.png'>"
 collection: portfolio
 ---
