@@ -7,6 +7,5 @@ venue: "State Key Laboratory of Multiphase Flow in Power Engineering, Xi’an Ji
 date: 2024-09-01
 location: "Xi'an, China"
 ---
-After obtaining my doctoral degree, I first continued working in my original laboratory and guided master's and doctoral students in conducting experiments.
-
+After earning my doctoral degree, I initially continued working in my original laboratory, where I supervised master's and doctoral students in their experiments.
 
