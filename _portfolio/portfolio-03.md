@@ -9,5 +9,5 @@ Through the episodes, viewers are given an exclusive glimpse into the lives of t
 
 The documentary not only showcases the adorable nature of pandas but also emphasizes the importance of conservation efforts, scientific research, and the commitment of those working to protect these gentle giants.
 
-Link: "You can watch Raising Cute Pandas on YouTube: Raising Cute Pandas: [It's Complicated](https://www.youtube.com/watch?v=v_cpPMjE0vU) and [The First 100 Days of Mei Lun and Mei Huan](https://www.youtube.com/watch?v=c30i79-FA3M)."
+Link: "You can see them on YouTube: [Raising Cute Pandas: It's Complicated | National Geographic](https://www.youtube.com/watch?v=v_cpPMjE0vU) and [The First 100 Days of Mei Lun and Mei Huan](https://www.youtube.com/watch?v=c30i79-FA3M)."
 
