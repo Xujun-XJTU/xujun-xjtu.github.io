@@ -1,0 +1,12 @@
+---
+title: "Experimental study on alkali catalytic gasification of oily sludge in supercritical water with a continuous reactor"
+collection: publications
+permalink: /publication/2022-12-02-paper-title-number
+excerpt: ''
+date: 2022-12-02
+venue: 'Journal of Environmental Management'
+paperurl: 'http://doi.org/10.1016/j.jenvman.2022.116957'
+citation: 'L. Li, G. Wang, X. Li, L. Wang, J. Zhang, K. Cheng, P. Peng, W. Cao, H. Jin, L. Guo, Experimental study on alkali catalytic gasification of oily sludge in supercritical water with a continuous reactor, J. Environ. Manage., 327 (2023) 116957.'
+---
+
+Realizing the harmless resource utilization of oily sludge is urgent for petroleum industry and of great significance for environmental management. The treatment of oily sludge was investigated using supercritical water gasification (SCWG) with a continuous fluidized bed reactor. The effect of operating parameters on gasification efficiency and gas yield without catalyst was tested, and then the influences of catalyst type (K2CO3 and Na2CO3) and concentrations (1–8 wt%) were systematically studied. The results indicated that a medium mass flow ratio and low feedstock concentration were beneficial for gas production. Alkali catalyst improved carbon gasification efficiency (CE) prominently, and Na2CO3 showed better performance due to its better stability. A maximum CE of 95.87% was achieved when 5 wt% Na2CO3 was added at 650 ◦C, 23 MPa with 5 wt% oily sludge concentration. Besides, according to XRD patterns of solid residues, Na2CO3 was more stable than K2CO3 during SCWG. SEMEDX results also revealed that more K was migrated into solid residues than Na. The analysis of pore structure demonstrated that alkali catalyst promoted the evolution of pore structure, resulting in higher specific surface areas and total pore volumes. Na2CO3 has a more substantial destructive effect on solid matrix, causing the matrix structure to collapse and inhibiting pore structure development. The FTIR spectra of solid products exhibited a lower content of carbohydrates and aromatic structures than the initial oily sludge. NH4–N results demonstrated that SCWG was a potential green treatment process for oily sludge. This work can not only give an insight into the reaction mechanism of alkali catalytic gasification of oily sludge, but also help to guide the optimal design of reactor and the regulation of operating parameters.
