@@ -1,5 +1,5 @@
 ---
-title: "Insight into particle size distribution and particle-scale reactions in a supercritical water fluidized bed reactor by CPFD method, International Communications in Heat and Mass Transfer"
+title: "Insight into particle size distribution and particle-scale reactions in a supercritical water fluidized bed reactor by CPFD method"
 collection: publications
 permalink: /publication/2024-10-04-paper-title-number
 excerpt: ''
