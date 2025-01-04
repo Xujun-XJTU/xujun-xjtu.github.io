@@ -1,9 +1,9 @@
 ---
 title: "Molecular dynamics study on bubble nucleation characteristics on rectangular Nano-Grooved surfaces"
 collection: publications
-permalink: /publication/2024-01-04-paper-title-number
+permalink: /publication/2025-01-04-paper-title-number
 excerpt: ''
-date: 2024-01-04
+date: 2025-01-04
 venue: 'Journal of Molecular Liquids'
 paperurl: 'http://doi.org/10.1016/j.molliq.2024.126836'
 citation: 'Z. Li, J. Lou, X. Wu, X. Li, F. Chang, H. Wang, et al., Molecular dynamics study on bubble nucleation characteristics on rectangular Nano-Grooved surfaces, Journal of Molecular Liquids, 2024.126836.'
