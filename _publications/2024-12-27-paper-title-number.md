@@ -1,12 +1,12 @@
 ---
-title: "Insight into particle size distribution and particle-scale reactions in a supercritical water fluidized bed reactor by CPFD method"
+title: "Optimal design of a supercritical water gasification reactor for enhanced desalination"
 collection: publications
-permalink: /publication/2024-10-04-paper-title-number
+permalink: /publication/2024-12-27-paper-title-number
 excerpt: ''
-date: 2024-10-04
-venue: 'International Communications in Heat and Mass Transfer'
-paperurl: 'http://doi.org/10.1016/j.icheatmasstransfer.2024.108148'
-citation: 'X. Li, G. Ou, S. Liu, L. Li, L. Lu, X. Qi, H. Jin, L. Guo, Insight into particle size distribution and particle-scale reactions in a supercritical water fluidized bed reactor by CPFD method, International Communications in Heat and Mass Transfer, 159 (2024) 108148. .'
+date: 2024-12-27
+venue: 'Desalination'
+paperurl: 'http://doi.org/10.1016/j.desal.2024.118483'
+citation: 'X. Li, K. Chen, X. Qi, L. Li, H. Jin and L. Guo, Optimal design of a supercritical water gasification reactor for enhanced desalination, Desalination 2025 Vol. 600 Pages 118483.'
 ---
 
-Supercritical water gasification (SCWG) provides a promising solution for converting coal into hydrogen-rich gaseous. However, the modelling of the coal SCWG process still poses challenges due to the heterogeneous particle distribution, large quantity of particles, and complex chemical reactions. This study presents a novel three-dimensional numerical model based on computational particle fluid dynamics (CPFD) to study coal particle gasification in the reactor. The model integrates realistic coal particle size distribution, heat and mass transfer phenomena alongside heterogeneous/homogeneous chemical reactions across phases, elucidating multi-scale reacting flow behaviors and illustrating particle volume fraction, size, and velocity distributions. The obtained results reveal the evolution of coal composition, particle scale gasification process, and distribution of gaseous product components in the supercritical fluidized bed reactor. This work aims to serve as a reference for understanding the flow and heat transfer phenomena between supercritical water and coal particles in SCWG reactors.
+Salt deposition in supercritical water gasification reactors poses significant challenges, including heat transfer degradation and corrosion. This study introduces a novel reactor design characterized by an enhanced porous transpiring inner wall and a staged preheated water inlet from top to bottom. Computational fluid dynamics and discrete phase modeling are utilized to optimize the reactor design by investigating the flow field under various structural parameters. The results demonstrate that the proposed design effectively prevents salt accumulation on the inner reactor surface, confirming its effectiveness in reducing inorganic salt deposition. The height-to-diameter ratio emerges as the most critical parameter affecting the flow field, with significant impacts observed within nozzle lengths of 50 to 200 mm, nozzle diameters of 4 to 10 mm, and height-to-diameter ratios of 4.2 to 17.3. Furthermore, the analysis of desalination rates reveals that enhancing overall desalination performance depends on improving efficiency at the nozzle positions, given specific initial salt concentrations in the feed. This research is expected to provide valuable insights for optimizing reactor design to address salt deposition challenges effectively.
