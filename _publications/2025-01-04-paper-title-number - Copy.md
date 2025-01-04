@@ -1,12 +1,12 @@
 ---
-title: "Insight into particle size distribution and particle-scale reactions in a supercritical water fluidized bed reactor by CPFD method"
+title: "Molecular dynamics study on bubble nucleation characteristics on rectangular Nano-Grooved surfaces"
 collection: publications
-permalink: /publication/2024-10-04-paper-title-number
+permalink: /publication/2024-01-04-paper-title-number
 excerpt: ''
-date: 2024-10-04
-venue: 'International Communications in Heat and Mass Transfer'
-paperurl: 'http://doi.org/10.1016/j.icheatmasstransfer.2024.108148'
-citation: 'X. Li, G. Ou, S. Liu, L. Li, L. Lu, X. Qi, H. Jin, L. Guo, Insight into particle size distribution and particle-scale reactions in a supercritical water fluidized bed reactor by CPFD method, International Communications in Heat and Mass Transfer, 159 (2024) 108148. .'
+date: 2024-01-04
+venue: 'Journal of Molecular Liquids'
+paperurl: 'http://doi.org/10.1016/j.molliq.2024.126836'
+citation: 'Z. Li, J. Lou, X. Wu, X. Li, F. Chang, H. Wang, et al., Molecular dynamics study on bubble nucleation characteristics on rectangular Nano-Grooved surfaces, Journal of Molecular Liquids, 2024.126836.'
 ---
 
-Supercritical water gasification (SCWG) provides a promising solution for converting coal into hydrogen-rich gaseous. However, the modelling of the coal SCWG process still poses challenges due to the heterogeneous particle distribution, large quantity of particles, and complex chemical reactions. This study presents a novel three-dimensional numerical model based on computational particle fluid dynamics (CPFD) to study coal particle gasification in the reactor. The model integrates realistic coal particle size distribution, heat and mass transfer phenomena alongside heterogeneous/homogeneous chemical reactions across phases, elucidating multi-scale reacting flow behaviors and illustrating particle volume fraction, size, and velocity distributions. The obtained results reveal the evolution of coal composition, particle scale gasification process, and distribution of gaseous product components in the supercritical fluidized bed reactor. This work aims to serve as a reference for understanding the flow and heat transfer phenomena between supercritical water and coal particles in SCWG reactors.
+The micro/nanoscale structures on metal surfaces are of significant research interest for boiling heat transfer and exhibit great application potential in the thermal management of high-power electronic devices. This study employs the molecular dynamics simulation method to investigate the boiling heat transfer characteristics of hydrophilic rectangular shallow nano-groove structures, comparing them with the smooth surface. The phase transition heat transfer characteristics of liquid films on the smooth surface, single rectangular groove (SRG) surface, and overlapping rectangular groove (ORG) surface are revealed by analyzing the variations of parameters such as energy contour diagrams, bubble volume, liquid film temperature, and average potential energy. The research results indicate that water molecules are in a solid-like state within shallow grooves, while the nucleation sites of initial bubbles form randomly outside the grooves. During the initial heating and bubble growth, the initial nucleation time and bubble growth rate of ORG are slower than those of SRG, due to the small rectangular groove on ORG that diminishes the energy transfer efficiency. During bubble formation and growth, the average kinetic energy within the liquid film fluctuates at the nucleation moment in the critical nucleation region, and the average potential energy rises from −0.083 eV. These findings provide a theoretical basis for the micro/nanoscale structure design of vapor–liquid phase transition thermal management devices.
