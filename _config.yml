@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xujun Li / Personal Homepage"
+title                    : "Xujun Li"
 title_separator          : "-"
 name                     : &name "Xujun Li"
 description              : &description "A doctor from Xi'an Jiaotong University"
