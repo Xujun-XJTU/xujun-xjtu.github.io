@@ -20,5 +20,5 @@ My current research primarily focuses on hydrogen production, catalytic hydrothe
 
 Feel free to contact me via WeChat: [WeChat](../assets/WeChat.pdf). 
 
-[Email](mailto:xujun_li@163.com) / [GitHub](https://github.com/Xujun-XJTU) /  [Google Scholar](https://scholar.google.com/citations?user=4RlP_ugAAAAJ&hl=en) / [ResearchGate (Login required)](https://www.researchgate.net/profile/Xujun_Li2)
+[Email](mailto:xujun_li@163.com) / [GitHub](https://github.com/Xujun-XJTU) /  [Google Scholar](https://scholar.google.com/citations?hl=en&user=4RlP_ugAAAAJ&view_op=list_works&sortby=pubdate) / [ResearchGate (Login required)](https://www.researchgate.net/profile/Xujun_Li2)
                     
