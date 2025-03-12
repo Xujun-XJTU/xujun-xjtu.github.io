@@ -18,8 +18,6 @@ I’m Xujun, originally from Anhui province, eastern China. I pursued higher edu
 
 My current research primarily focuses on hydrogen production, catalytic hydrothermal reaction, and waste treatment. Just reach out to me if you'd like to discuss these topics further.
 
-You can find my CV here: [Xujun's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). 
-
 Feel free to contact me via WeChat: [WeChat](../assets/WeChat.pdf). 
 
 [Email](mailto:xujun_li@163.com) / [GitHub](https://github.com/Xujun-XJTU) /  [Google Scholar](https://scholar.google.com/citations?user=4RlP_ugAAAAJ&hl=en) / [ResearchGate (Login required)](https://www.researchgate.net/profile/Xujun_Li2)
