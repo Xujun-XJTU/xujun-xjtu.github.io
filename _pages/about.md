@@ -7,18 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-<br/><img src='/images/Winter XJTU.png'>
+<br/><img src='/images/PSI.png' alt='Paul Scherrer Institut campus in Villigen, Switzerland'>
 
-"We must always change, renew, rejuvenate ourselves; otherwise, we harden." 
-—— Johann Wolfgang von Goethe
+Welcome to my academic homepage. I am a postdoctoral researcher at [Paul Scherrer Institut (PSI)](https://www.psi.ch/en) in Switzerland, working at the intersection of sustainable energy conversion, hydrothermal reaction engineering, and environmental technology.
 
-Hi guys, welcome to my site!
+My research focuses on hydrogen production, catalytic hydrothermal reactions, supercritical water gasification, waste treatment, and heat and mass transfer in complex reacting systems. I am particularly interested in catalyst activity and stability, hydrothermal conversion systems, salt crystallization and deposition, and the translation of reaction mechanisms into practical energy and environmental applications.
 
-Xujun is here, originally from Anhui province, eastern China. I pursued higher education, earning a bachelor's degree from [Shandong University](https://www.en.sdu.edu.cn/)  and a doctoral degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn). Currently, I am conducting my postdoctoral research at [Paul Scherrer Institut (PSI)](https://www.psi.ch/en) in Switzerland. This academic journey has opened doors for me to visit fascinating places, meet extraordinary people, and engage in meaningful endeavours.
+Before joining PSI, I received my bachelor's degree from [Shandong University](https://www.en.sdu.edu.cn/) and my doctoral degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn). These experiences shaped my interest in combining experiments, modelling, and reactor-level thinking to understand and improve high-pressure hydrothermal processes.
 
-My current research primarily focuses on hydrogen production, catalytic hydrothermal reaction, and waste treatment. Just reach out to me if you'd like to discuss these topics further.
+I am always happy to discuss possible collaborations on hydrothermal conversion, hydrogen-rich gas production, catalysis, salt management, and coupled experimental and modelling approaches. Please feel free to contact me if our research interests overlap.
 
-Feel free to contact me via WeChat: [WeChat](../assets/WeChat.pdf). 
+You can find my CV here: [Xujun's Curriculum Vitae](../files/CV.pdf).
 
-[Email](mailto:xujun_li@163.com) / [GitHub](https://github.com/Xujun-XJTU) /  [Google Scholar](https://scholar.google.com/citations?hl=en&user=4RlP_ugAAAAJ&view_op=list_works&sortby=pubdate) / [ResearchGate (Login required)](https://www.researchgate.net/profile/Xujun_Li2)
-                    
+[Email](mailto:xujun.li@psi.ch) / [Publications](../publications/) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=4RlP_ugAAAAJ&view_op=list_works&sortby=pubdate) / [ORCID](http://orcid.org/0009-0006-2232-5932) / [ResearchGate](https://www.researchgate.net/profile/Xujun_Li2)
