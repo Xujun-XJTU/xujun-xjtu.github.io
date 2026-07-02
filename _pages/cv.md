@@ -55,9 +55,8 @@ I am a postdoctoral researcher at Paul Scherrer Institut (PSI), working on high-
 
 **Experimental and analytical methods**
 
-- Thermal and gas analysis: TG/DSC-IR, elemental analysis, TOC/TN
-- Composition and trace analysis: ICP-MS, ion chromatography, HPLC
-- Surface and structural characterization: XPS, SEM, FE-TEM, SC-XRD
+- Thermal and gas analysis: Elemental analysis, TOC/TN
+- Composition and trace analysis: Ion chromatography, HPLC
 - High-pressure hydrothermal reaction and product analysis workflows
 
 ## Publications
